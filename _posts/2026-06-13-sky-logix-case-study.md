@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Case Study: Building SkyLogix Weather Data Pipeline'
+title: 'Building SkyLogix Weather Data Pipeline'
 date: 2026-06-13
 categories: data-engineering python
 permalink: /portfolio/sky-logix-case-study/
 ---
 
-# Case Study: Building SkyLogix — An End-to-End Weather Data Pipeline
+# Building SkyLogix — An End-to-End Weather Data Pipeline
 
 ## Executive Summary
 In modern data architecture, handling external API ingestions requires balancing volatile, unstructured payloads with the need for rigid, analytics-ready data structures. 
