@@ -3,6 +3,7 @@ layout: post
 title: 'Case Study: Building SkyLogix Weather Data Pipeline'
 date: 2026-06-13
 categories: data-engineering python
+permalink: /portfolio/sky-logix-case-study/
 ---
 
 # Case Study: Building SkyLogix — An End-to-End Weather Data Pipeline
@@ -20,7 +21,7 @@ When designing data infrastructure, a common pitfall is writing raw API data str
 
 To solve this, I implemented a **Dual-Database Architecture** using a specialized four-stage ETL workflow:
 
-![SkyLogix Weather Data Pipeline Architecture](images/weather_skylogix_pipeline.png)
+![SkyLogix Weather Data Pipeline Architecture](/images/weather_skylogix_pipeline.png)
 
 ### 1. Extract (`weather_client.py`)
 The pipeline triggers an authenticated request to the external weather API to capture real-time global metrics. To ensure production standards, this component isolates API credentials using secure environment variables.
