@@ -4,9 +4,14 @@ title: 'Optimizing an Enterprise Medallion Data Warehouse for Telecom Analytics'
 date: 2026-06-13
 categories: data-engineering bigquery python
 permalink: /portfolio/datatel-communication-pipeline/
----
+author: "Oyetolu Zeenat"
 
-# Building DataTel — An End-to-End Enterprise Medallion Data Warehouse
+---
+[Back to Portfolio Website](https://oyetoluzeenat.github.io/)
+[**View the Full Codebase on GitHub**](https://github.com/Oyetoluzeenat/datatel_comm_analytics_pipeline)
+
+
+# Data Telecommunication Medallion Data Warehouse
 
 ## Executive Summary
 In high-volume telecommunications architectures, data engineering pipelines must reconcile a critical friction point: capturing massive streams of volatile, unstructured transactional records (customer profiles, high-frequency network usage sessions, and dynamic billing logs) and converting them into high-performance, strictly governed business intelligence assets. 

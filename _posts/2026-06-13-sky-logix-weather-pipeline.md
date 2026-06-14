@@ -4,9 +4,12 @@ title: 'Building SkyLogix Weather Data Pipeline'
 date: 2026-06-13
 categories: data-engineering python
 permalink: /portfolio/sky-logix-weather-pipeline/
+author: "Oyetolu Zeenat"
 ---
+🌐 [Back to Portfolio Website](https://oyetoluzeenat.github.io/) 
+[**View the Full Codebase on GitHub**](https://github.com/Oyetoluzeenat/weather_skylogix_zeenat)
 
-# Building SkyLogix — An End-to-End Weather Data Pipeline
+# An End-to-End Skylogix Weather Data Pipeline
 
 ## Executive Summary
 In modern data architecture, handling external API ingestions requires balancing volatile, unstructured payloads with the need for rigid, analytics-ready data structures. 

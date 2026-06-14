@@ -145,6 +145,35 @@ body {
   border-radius: 4px;
   margin-bottom: 12px;
 }
+
+.project-tag1 {
+  display: inline-block;
+  background: #5EB1FF;
+  color: white;
+  font-size: 12px;
+  padding: 3px 10px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+  margin-right: 4px;
+}
+
+.project-tag1:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+}
+.project-tag2 {
+  display: inline-block;
+  background: var(--bg-light); 
+  /* color: ; */
+  font-size: 12px;
+  padding: 3px 10px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+  margin-right: 4px;
+}
+
+
+
 .project-card h3 { margin-bottom: 8px; font-size: 18px; }
 .project-card p { color: var(--text-light); font-size: 14px; margin-bottom: 12px; }
 .tech-row span {
