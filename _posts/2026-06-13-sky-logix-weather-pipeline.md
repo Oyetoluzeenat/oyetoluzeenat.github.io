@@ -3,7 +3,7 @@ layout: post
 title: 'Building SkyLogix Weather Data Pipeline'
 date: 2026-06-13
 categories: data-engineering python
-permalink: /portfolio/sky-logix-case-study/
+permalink: /portfolio/sky-logix-weather-pipeline/
 ---
 
 # Building SkyLogix — An End-to-End Weather Data Pipeline
