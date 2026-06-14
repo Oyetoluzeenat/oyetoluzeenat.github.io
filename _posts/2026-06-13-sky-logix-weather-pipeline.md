@@ -6,6 +6,7 @@ categories: data-engineering python
 permalink: /portfolio/sky-logix-weather-pipeline/
 author: "Oyetolu Zeenat"
 ---
+
 🌐 [Back to Portfolio Website](https://oyetoluzeenat.github.io/) 
 [**View the Full Codebase on GitHub**](https://github.com/Oyetoluzeenat/weather_skylogix_zeenat)
 
