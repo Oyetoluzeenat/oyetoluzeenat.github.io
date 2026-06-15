@@ -235,3 +235,5 @@ These practices are common across modern data platforms and distributed processi
 LogForge Apache demonstrates how a relatively small project can incorporate production-grade engineering concepts such as fault tolerance, observability, staging layers, idempotent loading, and analytical reporting.
 
 While the implementation uses Python and SQLite, the architectural patterns mirror those used in enterprise-scale data platforms. The result is a reliable, testable, and extensible log analytics pipeline capable of transforming raw Apache access logs into actionable insights.
+
+[**View the Full Codebase on GitHub**](https://github.com/Oyetoluzeenat/apache_log_ETL_and_analytics)

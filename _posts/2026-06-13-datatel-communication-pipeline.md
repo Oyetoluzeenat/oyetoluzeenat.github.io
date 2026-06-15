@@ -80,4 +80,4 @@ By surfacing the materialization tables in **Google Looker Studio**, non-technic
 
 The complete code, schema definitions, and instructions on how to spin up this infrastructure locally are open-sourced on GitHub.
 
-👉 [**View the Full Codebase on GitHub**](https://github.com/Oyetoluzeenat/datatel_comm_analytics_pipeline)
+[**View the Full Codebase on GitHub**](https://github.com/Oyetoluzeenat/datatel_comm_analytics_pipeline)

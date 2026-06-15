@@ -7,7 +7,7 @@ permalink: /portfolio/sky-logix-weather-pipeline/
 author: "Oyetolu Zeenat"
 ---
 
-🌐 [Back to Portfolio Website](https://oyetoluzeenat.github.io/) 
+[Back to Portfolio Website](https://oyetoluzeenat.github.io/) 
 [**View the Full Codebase on GitHub**](https://github.com/Oyetoluzeenat/weather_skylogix_zeenat)
 
 # An End-to-End Skylogix Weather Data Pipeline
@@ -68,4 +68,4 @@ Strict separation of environments was maintained. Utilizing a robust `.gitignore
 
 The complete code, schema definitions, and instructions on how to spin up this infrastructure locally are open-sourced on GitHub.
 
-👉 [**View the Full Codebase on GitHub**](https://github.com/Oyetoluzeenat/weather_skylogix_zeenat)
+[**View the Full Codebase on GitHub**](https://github.com/Oyetoluzeenat/weather_skylogix_zeenat)
