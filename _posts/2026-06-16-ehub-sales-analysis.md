@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Drugstoc eHub Sales Analysis: Revenue, Profitability, and Regional Performance"
+title: "EHub Sales Analysis: Revenue, Profitability, and Regional Performance"
 date: 2025-06-16
 categories: [Data Analytics, Business Intelligence, Healthcare]
 tags: [Python, Power BI, Sales Analysis, Data Visualization, Healthcare Analytics]
