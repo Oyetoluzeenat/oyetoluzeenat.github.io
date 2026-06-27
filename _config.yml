@@ -1,0 +1,23 @@
+title: Zeenat Y. Oyetolu
+description: >-
+  Data Scientist & Analytics Engineer — pharmacist-turned-data-engineer building
+  reliable ETL pipelines, RAG systems, and BI for healthcare and pharma.
+author: Zeenat Y. Oyetolu
+url: "https://oyetoluzeenat.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Default the post layout so every write-up matches the portfolio brand
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Don't process these
+exclude:
+  - README.md
+  - LICENSE
